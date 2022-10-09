@@ -11,3 +11,14 @@ Microservices Project
 ## ratings-data-service (https://github.com/geliyangVU/ratings-data-service)
 
 
+
+# Class Rating
+```
+
+Rating {
+  String movieId;
+  int rating;
+}
+
+
+```
