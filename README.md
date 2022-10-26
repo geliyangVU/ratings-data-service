@@ -22,3 +22,10 @@ Rating {
 
 
 ```
+
+
+Tomcat Port: 8082 API example: 
+http://localhost:8082/ratingsdata/movies/{movieId}
+
+http://localhost:8082/ratingsdata/user/{userId}
+
